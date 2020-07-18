@@ -1,0 +1,12 @@
+*.aux
+*.log
+*.gz
+*.sty
+*.bbl
+*.blg
+*.out
+*.bst
+*.xlsx
+*.xlsm
+service-credentials.json
+*.DS_Store
